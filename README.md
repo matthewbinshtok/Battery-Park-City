@@ -6,3 +6,5 @@ This is an assignment for Macaulay Seminar 4: Shaping the Future of New York Cit
 [Interactive Neighborhood Map (click here)](../master/hw5-2.geojson)
 
 ![BPC from above][bpcskyline]
+
+[bpcskyline]: (https://github.com/matthewbinshtok/Battery-Park-City/blob/master/bpcskyline.jpg)
